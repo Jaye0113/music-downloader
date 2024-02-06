@@ -17,3 +17,9 @@ cd ~/Downloads/Music
 	# Use 'mv' to rename the file, removing the unwanted pattern
  	#mv "$file" "$(echo $file | sed 's/\[.*\]//g')"
 #  done
+
+exit 0
+
+osascript -e 'tell application "Terminal" to quit'
+
+open ~/Downloads/Music

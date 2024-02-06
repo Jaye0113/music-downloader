@@ -7,8 +7,9 @@ link=$(osascript -e 'Tell application "System Events" to display dialog "Put you
 # Check if user input link
 if [ -n "$link" ]; then
     # if there is a link already input, then recall hello.sh as script to be parameter
-    /Users/yaoyaoliu/Documents/Github/music-downloader/download_music.sh "$link"
+    ../download_music.sh "$link"
 else
     echo "there is no link."
 fi
-#there is no change here
+
+exit 0
