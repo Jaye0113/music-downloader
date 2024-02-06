@@ -1,7 +1,27 @@
-# Muisc Downloader Script
+# YouTube Music Downloader (for mac use currently)
 
-This repository contains a script called 'down_music.sh' which is used to download music from various sources
+The simple tool to download music (audio) from kinds of websites (Youtube Specially)
 
 ## Description
 
-The 'download_music.sh' script is a shell script that automates the process of 
+
+Motivation, I want to give thanks to myself, which one love music so much and always want to study more knowledge in music area. The reason I want to make this app is to make it easily to download music from youtube.
+
+Thanks to the people who make the tool call yt-dlp, I found it one year ago, but just know to download something at that time.
+
+Thanks to my friends who always make me open to the world, and remind me to try different kinds of things in the world.
+
+Thanks to my professor who ever taught me at the course called system security that really motivated me to engage in the IT world.
+
+## Installation
+
+
+
+## Usage
+
+## Contributing
+
+## License
+
+## Acknowledgements
+
